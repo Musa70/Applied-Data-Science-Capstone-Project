@@ -1,2 +1,3 @@
 # Applied-Data-Science-Capstone-Project
-This is the final project in completion of the IBM Data Science Professional Certificate.
+This is the final project in completion of the IBM Data Science Professional Certificate. After being equipped with the skills and tools to use location data to explore a geographical location. Over the course of two weeks, i had the opportunity to be as creative as i wanted and came up with an idea to leverage the foursquare location data to explore or compare neighborhood or cities of my choice or comeup with a problem that required the use of foursquare location data to solve.
+In this project, I explored, segmented and clustered the neighbourhoods in Vancouver to make a recommendation for the optimum location for ATM placement.
